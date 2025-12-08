@@ -1,0 +1,15 @@
+Started with [[Gojira]] the [[Larvitar]] at [[Shadow Base]]
+Caught [[Swirley]] the [[Vanillite]] at [[Route 1]]
+Caught [[Cold Steel]] the [[Sandshrew (Alolan)]] at [[Icicle Cave]]
+Given [[Roy]] the [[Litleo]] from the [[Route 2 Challenge Road]]
+Caught [[Brainiac]] the [[Slowpoke]] at [[Route 3]]
+Caught [[Armageddon]] the [[Flabebe]] at [[Flower Paradise]]
+
+Defeated [[Mirskle]]
+
+Caught [[Jack]] the [[Phantump]] at [[Grim Woods]]
+Caught [[Becky]] the [[Numel]] at [[Route 4]]
+Caught [[Smaug]] the [[Salandit]] at [[Cinder Volcano]]
+Caught [[Shinji]] the [[Nidoran (M)]] at [[Route 5]]
+
+[[Shinji]] evolved into [[Nidorino]]
