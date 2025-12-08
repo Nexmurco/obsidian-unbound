@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Game Logs/Nathan Game 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Nathan Game 4"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "0f92d58dbeaefa42",
   "lastOpenFiles": [
-    "Game Logs/Nathan Game 1.md",
     "index.md",
+    "Game Logs/Nathan Game 1.md",
     "Moves/Rollout.md",
     "Events",
     "Pokemon/Nidoran (M).md",
