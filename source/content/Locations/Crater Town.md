@@ -1,10 +1,13 @@
-# Gym Leader
-[[Vega]] 
+*Description*
 
-# Items
+### Notes
+
+### Items
+
+### Encounters
+- [[Vega]] in his gym at the North West corner 
+
+### Quests
 
 
-# Quests
-[[The Powerhouse of the Cell]]
-[[Don't Turn Off the Power]]
-[[Basic Literacy]]
+#location
