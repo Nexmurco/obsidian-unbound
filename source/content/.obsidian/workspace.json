@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Logs/Nathan Game 4.md",
+                "file": "Moves/Payback.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nathan Game 4"
+              "title": "Payback"
             }
           }
         ]
@@ -169,15 +169,25 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "0f92d58dbeaefa42",
+  "active": "ae5b06a12acb2165",
   "lastOpenFiles": [
-    "index.md",
+    "Pokemon/Faraday.md",
+    "Moves/Payback.md",
+    "Pokemon/Archie.md",
+    "Pokemon/Hex.md",
+    "Pokemon/Writo.md",
     "Game Logs/Nathan Game 1.md",
+    "Game Logs/Nathan Game 4.md",
+    "Game Info/Accuracy.md",
+    "Game Info",
+    "Game Info/Power.md",
+    "Game Info/Physical.md",
+    "Game Info/Dark.md",
+    "index.md",
     "Moves/Rollout.md",
     "Events",
     "Pokemon/Nidoran (M).md",
     "Pokemon/Azurill.md",
-    "Game Logs/Nathan Game 4.md",
     "Locations/Route 4.md",
     "Locations/Grim Woods.md",
     "Locations/Cinder Volcano.md",
@@ -189,15 +199,6 @@
     "Pokemon/Sandshrew (Alolan).md",
     "Game Logs/Nathan Game 3.md",
     "Pokemon/Litleo.md",
-    "Events/Route 2 Challenge Road.md",
-    "Pokemon/Shellos.md",
-    "Pokemon/Vanillite.md",
-    "Game Logs/Nathan Game 2.md",
-    "Pokemon/Larvitar.md",
-    "Pokemon/Zubat.md",
-    "Moves/Fairy Wind.md",
-    "Pokemon/Flabebe.md",
-    "Locations/Flower Paradise.md",
     "Pokemon",
     "Quests",
     "Items",
