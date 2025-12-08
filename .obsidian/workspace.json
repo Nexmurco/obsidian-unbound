@@ -1,20 +1,20 @@
 {
   "main": {
-    "id": "d4a03f537bc55184",
+    "id": "5868b565d70611ef",
     "type": "split",
     "children": [
       {
-        "id": "85c80ec10b34f475",
+        "id": "858c617214f3e1bd",
         "type": "tabs",
         "children": [
           {
-            "id": "31adcf136f41fc8c",
+            "id": "0f92d58dbeaefa42",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "61ea28324b3deddc",
+    "id": "89f32392af9e9c42",
     "type": "split",
     "children": [
       {
-        "id": "a853cc1c3559f4dd",
+        "id": "510f560b9808143f",
         "type": "tabs",
         "children": [
           {
-            "id": "2a89776418385d0c",
+            "id": "ae5b06a12acb2165",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "88e5ca01322583d1",
+            "id": "742446f9518e4972",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "6829e3263965103f",
+            "id": "90c8f1c2e5c67685",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,15 +77,15 @@
     "width": 300
   },
   "right": {
-    "id": "198f1a11cdf75dde",
+    "id": "be57d1855e35b955",
     "type": "split",
     "children": [
       {
-        "id": "33f9096186bae18b",
+        "id": "b28a84090929f2e6",
         "type": "tabs",
         "children": [
           {
-            "id": "b21dd54261d459be",
+            "id": "aea531cf087cd7c6",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -103,20 +103,21 @@
             }
           },
           {
-            "id": "000df29d91cd6caa",
+            "id": "885cc819932df924",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Game 2 Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Game 2 Log"
             }
           },
           {
-            "id": "d4474b6d005d68fe",
+            "id": "da57ee3f3d69eee0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,32 +132,18 @@
             }
           },
           {
-            "id": "c68a1f12a28f07dc",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "55c657bf0fe8afa8",
+            "id": "db7777c9c24ddc8e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.base",
+                "file": "Game 2 Log.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 1"
+              "title": "Outline of Game 2 Log"
             }
           }
         ]
@@ -168,18 +155,38 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "2a89776418385d0c",
+  "active": "0f92d58dbeaefa42",
   "lastOpenFiles": [
-    "Untitled.base",
-    "Untitled 1.base"
+    "Quests/The Food Thief.md",
+    "Quests/The Powerhouse of the Cell.md",
+    "Items/Zygarde Pieces.md",
+    "Nathan's Game Logs/Nathan Game 4.md",
+    "Moves/Thief.md",
+    "Pokemon",
+    "Quests",
+    "Items",
+    "Characters",
+    "Locations",
+    "Moves",
+    "Items/Vision Badge.md",
+    "Characters/Vega.md",
+    "Locations/Crater Town.md",
+    "Locations/Dresco Town.md",
+    "Locations/Route 5.md",
+    "Characters/Mirskle.md",
+    "Nathan's Game Logs/Nathan Game 3.md",
+    "Nathan's Game Logs/Nathan Game 1.md",
+    "Nathan's Game Logs/Nathan Game 2.md",
+    "Nathan's Game Logs",
+    "Welcome.md"
   ]
 }
