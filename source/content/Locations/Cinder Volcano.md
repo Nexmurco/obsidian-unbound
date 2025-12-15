@@ -6,6 +6,14 @@
 
 ### Encounters
 
+[[Magby]]
+[[Geodude]]
+[[Numel]]
+[[Torkoal]]
+[[Woobat]]
+[[Drilbur]]
+[[Salandit]]
+
 ### Quests
 
 

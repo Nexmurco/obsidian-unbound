@@ -8,4 +8,6 @@
 [[Phantump]]
 [[Weedle]]
 [[Seedot]]
+[[Gastly]]
+[[Caterpie]]
 
