@@ -1,3 +1,4 @@
+Ocean Lane
 {{Description}}
 
 ### Notes
@@ -6,13 +7,22 @@
 
 ### Encounters
 
-[[Pikipek]]
+
 [[Stufful]]
 [[Azurill]]
 [[Scraggy]]
-[[Patrat]]
 [[Minccino]]
+[[Inkay]]
+[[Electrike]]
+[[Riolu]]
 
+Day Only
+[[Pikipek]]
+[[Patrat]]
+
+Night Only
+[[Hoothoot]]
+[[Rattata]]
 
 Special
 [[Litleo]]

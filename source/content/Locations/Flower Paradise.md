@@ -12,6 +12,17 @@ BLUE
 [[Panpour]]
 [[Cutiefly]]
 
+PINK
+[[Pansage]]
+[[Cutiefly]]
+[[Flabebe]] - orange
+
+YELLOW
+[[Flabebe]] - yellow
+
+RED
+[[Flabebe]] - red
+[[Cutiefly]]
 
 Special - [[Sandshrew (Alolan)]]
 

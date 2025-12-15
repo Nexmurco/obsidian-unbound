@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Grim Woods.md",
+                "file": "Locations/Flower Paradise.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grim Woods"
+              "title": "Flower Paradise"
             }
           },
           {
@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Flower Paradise.md",
+                "file": "Locations/Route 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flower Paradise"
+              "title": "Route 3"
             }
           }
         ],
@@ -228,18 +228,20 @@
   },
   "active": "5e5b54d8b2e631e0",
   "lastOpenFiles": [
+    "Locations/Dresco Town.md",
+    "Locations/Route 3.md",
+    "Locations/Route 1.md",
+    "Locations/Flower Paradise.md",
     "Locations/Route 2.md",
+    "Locations/Grim Woods.md",
     "Locations/Icicle Cave.md",
     "Locations/Cinder Volcano.md",
     "Black Emboar James.md",
     "Characters/Mirskle.md",
-    "Locations/Grim Woods.md",
     "Locations/Route 5.md",
     "Locations/Shadow Base.md",
     "Characters/Vega.md",
-    "Locations/Route 1.md",
     "Locations/Route 4.md",
-    "Locations/Route 3.md",
     "Trainer Pokemon/Writo.md",
     "Trainer Pokemon/Hex.md",
     "Trainer Pokemon",
@@ -250,12 +252,10 @@
     "Images",
     "Templates/Quest Template.md",
     "Trainer Pokemon/Archie.md",
-    "Locations/Dresco Town.md",
     "Locations/Crater Town.md",
     "Items/Zygarde Cells.md",
     "Quests/The Powerhouse of the Cell.md",
     "Untitled.md",
-    "Locations/Flower Paradise.md",
     "Templates",
     "Game Info",
     "Events",
