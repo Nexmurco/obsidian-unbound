@@ -28,3 +28,10 @@ Defeated Marlon
 
 
 [[Nosepass]] - [[KBT Expressway]]
+
+
+Hariyama swept Vega
+
+
+[[Trumbeak]] evolves into [[Toucannon]]
+    
