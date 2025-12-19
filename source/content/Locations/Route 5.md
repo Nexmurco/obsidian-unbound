@@ -12,3 +12,5 @@
 [[Lickitung]]
 [[Venonat]]
 [[Houndour]]
+[[Taillow]]
+[[Yanma]]

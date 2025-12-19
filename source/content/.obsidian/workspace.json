@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ivory.md",
+                "file": "Nathan Game 6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ivory"
+              "title": "Nathan Game 6"
             }
           }
         ],
@@ -298,15 +298,16 @@
   },
   "active": "d31701c20873cd3f",
   "lastOpenFiles": [
-    "Marlon.md",
-    "Ivory.md",
+    "Locations/Route 5.md",
     "Nathan Game 6.md",
+    "Marlon.md",
+    "Sableye.md",
+    "Ivory.md",
     "Nathan Game 5.md",
     "Game Logs/Nathan Game 4.md",
     "Characters/Vega.md",
     "Characters/Mirskle.md",
     "Locations/Route 4.md",
-    "Locations/Route 5.md",
     "KBT Expressway.md",
     "Locations/Crater Town.md",
     "Locations/Cinder Volcano.md",
@@ -324,7 +325,6 @@
     "Trainer Pokemon",
     "Pokemon/Minior.md",
     "Pokemon/Delibird.md",
-    "Templates/Pokemon Template.md",
     "Images",
     "Templates",
     "Game Info",
