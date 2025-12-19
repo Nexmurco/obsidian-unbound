@@ -10,3 +10,5 @@
 [[Purrloin]]
 [[Ditto]]
 [[Lickitung]]
+[[Venonat]]
+[[Houndour]]

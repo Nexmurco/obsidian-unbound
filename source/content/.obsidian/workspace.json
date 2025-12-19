@@ -83,16 +83,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Cinder Volcano.md",
+                "file": "Locations/Crater Town.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cinder Volcano"
+              "title": "Crater Town"
+            }
+          },
+          {
+            "id": "83afc34bb5e334d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Route 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Route 4"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -240,11 +254,16 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "f7d263692bee895d",
+  "active": "83afc34bb5e334d1",
   "lastOpenFiles": [
+    "Locations/Route 5.md",
+    "Locations/Route 4.md",
+    "Characters/Vega.md",
+    "KBT Expressway.md",
+    "Locations/Crater Town.md",
+    "Locations/Cinder Volcano.md",
     "Marlon.md",
     "Characters/Mirskle.md",
-    "Locations/Cinder Volcano.md",
     "Locations/Grim Woods.md",
     "Locations/Route 3.md",
     "Locations/Dresco Town.md",
@@ -253,10 +272,7 @@
     "Locations/Route 2.md",
     "Locations/Icicle Cave.md",
     "Black Emboar James.md",
-    "Locations/Route 5.md",
     "Locations/Shadow Base.md",
-    "Characters/Vega.md",
-    "Locations/Route 4.md",
     "Trainer Pokemon/Writo.md",
     "Trainer Pokemon/Hex.md",
     "Trainer Pokemon",
@@ -267,9 +283,7 @@
     "Images",
     "Templates/Quest Template.md",
     "Trainer Pokemon/Archie.md",
-    "Locations/Crater Town.md",
     "Items/Zygarde Cells.md",
-    "Quests/The Powerhouse of the Cell.md",
     "Templates",
     "Game Info",
     "Events",

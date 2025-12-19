@@ -13,7 +13,6 @@ Level 27
 [[Thief]]
 [[Feint]]
 
-
 ## [[Sneasel]] 
 Level 25
 [[Dark Gem]]
