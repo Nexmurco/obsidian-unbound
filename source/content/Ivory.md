@@ -13,7 +13,7 @@ LV 32
 [[Vullaby]]
 
 
-Goes Immediately into Zeph fight with
+Goes Immediately into [[Zeph]] fight with
 
 Lv 33 [[Houndoom]] that does [[Mega Evolution]]
 [[Sucker Punch]]
