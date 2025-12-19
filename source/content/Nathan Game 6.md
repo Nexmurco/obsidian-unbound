@@ -21,3 +21,10 @@ Defeated Marlon
 [[Nidoran (F)]] - [[Route 5]]
 [[Oshawott]] - [[Route 5 Starter Girl]]
 [[Oshawott]] evolves into [[Dewott]]
+[[Nidoran (F)]] evolves into [[Nidorina]]
+[[Starly]] evolved into [[Staravia]]
+[[Poliwag]] evolved into [[Poliwhirl]]
+[[Caterpie]] evolved into [[Metapod]] then [[Butterfree]]
+
+
+[[Nosepass]] - [[KBT Expressway]]
